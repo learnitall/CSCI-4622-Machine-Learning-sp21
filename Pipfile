@@ -12,6 +12,7 @@ numpy = "*"
 matplotlib = "*"
 pandas = "*"
 scipy = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.9"
